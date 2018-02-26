@@ -1,5 +1,6 @@
 package de.hybris.platform.customerreview.setup;
 
+
 import java.util.List;
 
 public class CurseWords {

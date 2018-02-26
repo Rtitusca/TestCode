@@ -30,7 +30,6 @@
 /*    */
 /*    */
 /*    */
-/*    */
 /*    */ public class DefaultCustomerReviewService
 /*    */   extends AbstractBusinessService
 /*    */   implements CustomerReviewService
